@@ -1,0 +1,153 @@
+<style>
+body {
+    margin: 0;
+    margin-left: 
+}
+
+header{
+    background: #333;
+    color: white;
+    margin: 0;
+    font-size: 15px;
+}
+
+header h1 {
+    margin: 0;
+    float: left;
+    padding: 10px 0 10px 15px;
+    text-align: center;
+}
+
+header a {
+    color: orange;
+    text-decoration: none;
+    margin:0 auto;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+nav li {
+    float: left;
+}
+
+nav li a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+nav li a:hover:not(.active) {
+    background-color: #111;
+}
+
+nav .active {
+    background-color: orange;
+}
+body {
+    background-image: url("lol.jpg");
+   -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+    font-family: Helvetica, Arial, sans-serif;
+      }
+#header {
+    margin: auto;
+}
+li {
+    list-style-type: none; 
+    line-height: 150%;
+    align-content: center;
+    text-decoration-color: #FFF;
+}
+#menu {
+    float: left; 
+    width: 100px
+    background-color: #000;
+    border-color: #000;
+    align-self: auto;
+    color: black;
+    text-align: right;
+    margin: none; 
+    border-width: 20px;
+}
+#front {
+    width: 500px; 
+    float: right;
+    background-color: #737373;
+    align-content: left;
+    padding: 20px;
+    border-width: 5px;
+    color: #FFF;
+    border-color: #000;
+    border-style: outset;
+    border-radius: 10px;
+}
+#title {
+    line-height: 10%;
+    text-indent: 10px;
+}
+h5 {
+    text-indent: 10px;
+    font-style: italic;
+    color:;
+}
+#footer {
+    clear: both;
+    background-color: #545659;
+    text-align: right;
+    padding:10px;
+    margin: auto;
+}
+
+h3{
+    color: #222222;
+    text-indent: none;
+ 
+}
+p {
+    text-indent: 5px;
+}
+a {
+    color: black;
+    text-decoration: none;
+}
+li {
+    text-decoration-color: white;
+}
+h3 {
+    margin: none;
+}
+img {
+    width:     text-align: center;
+}
+#content {
+    color: linen;
+    padding: 100px;
+    float: auto;
+} 
+img {
+    align-content: center;
+}
+</style>
+.img {
+    position: relative;
+    right: 180px;
+}
+#watdapak {
+    margin-left: 10%;
+}
+#class {
+    margin-left: 30%;
+}
